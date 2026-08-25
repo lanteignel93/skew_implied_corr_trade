@@ -21,13 +21,13 @@ intraday breach stop — momentum through a breached strike is confirmed three
 independent times in this research program) and the slow correlated bear
 (budgeted as a cost of business; conditioning cannot remove it).
 
-## Results (per $100-vega unit, gross)
+## Results (per \$100-vega unit, gross)
 
 | Metric | Development (2015-07 → 2024-07) | Holdout (2024-08 → 2026-07, sealed) |
 |---|---|---|
 | Per-cycle Sharpe | **+1.68** (107 cycles) | **+2.46** (24 cycles) |
-| Mean / cycle | +$323 | +$360 |
-| Worst cycle | −$1,078 | −$697 |
+| Mean / cycle | +\$323 | +\$360 |
+| Worst cycle | −\$1,078 | −\$697 |
 | CAPM alpha (daily, HAC) | **87% of P&L, t = 4.6** | — |
 | Per-cycle correlation to SPX | **+0.03** (legs offset: +0.40 / −0.40) | — |
 | Bootstrap P(losing year) | 1.8% | — |
