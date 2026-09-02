@@ -30,7 +30,7 @@ independent times in this research program) and the slow correlated bear
 | Worst cycle | −\$1,078 | −\$697 |
 | CAPM alpha (daily, HAC) | **87% of P&L, t = 4.6** | — |
 | Per-cycle correlation to SPX | **+0.03** (legs offset: +0.40 / −0.40) | — |
-| Bootstrap P(losing year) | 1.8% | — |
+| Bootstrap P(losing year) | 2.0% | — |
 
 Net of baseline transaction-cost assumptions: ≈ 1.1–1.2 dev Sharpe. The
 intraday-stop execution uplift (~+12% of index carry) is not included above.
